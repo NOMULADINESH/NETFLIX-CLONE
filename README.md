@@ -1,2 +1,2 @@
 # NETFLIX-CLONE
-This is the basic netflix clone with html and css
+This is a basic netflix clone with html and css
